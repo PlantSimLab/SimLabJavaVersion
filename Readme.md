@@ -5,10 +5,10 @@ It is increasingly recognized that at the molecular level nonlinear networks of 
 PlantSimLab is intended to play the role of a virtual laboratory, in which plant biologists can interrogate a computational model in ways similar to how it is done in the laboratory. The software will be developed in close collaboration with the plant biology community, through use cases that drive software capabilities and interface features. Finally, an extensive dissemination effort will be made to introduce the tool to plant biologists. The project will also leverage an ongoing outreach project that engages 9-12 year-old children across Virginia. The program, Kids' Tech University (KTU), brings 450 children to the Virginia Tech campus 4 times each year, where they interact with scientists, participate in hands-on laboratories, and, between campus events, explore a virtual space related to topics discussed on campus. The project will result in hands-on as well as virtual activities related to plant biology in general and the focus of the proposed project in particular.
 
 ### Investigators 
-*Reinhard Laubenbacher reinhard@vbi.vt.edu (Principal Investigator)
-*Brett Tyler (Co-Principal Investigator)
-*John McDowell (Co-Principal Investigator)
-*Stefan Hoops (Co-Principal Investigator)
+* Reinhard Laubenbacher reinhard@vbi.vt.edu (Principal Investigator)
+* Brett Tyler (Co-Principal Investigator)
+* John McDowell (Co-Principal Investigator)
+* Stefan Hoops (Co-Principal Investigator)
 
 See [NSF Award 1146819](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1146819&WT.z_pims_id=5444) for details on the project. 
 ## Current status
